@@ -1,0 +1,1 @@
+%COMSPEC% /C .\WindowsServices\movemenoreg.vbs
